@@ -3,7 +3,7 @@
 
 🎓 **Third-year Computer Engineering student** at **KMUTT** (International Program)  
 📌 **Seeking hands-on experience in Data Engineering & Data Analyst**  
-💡 Passionate about **ETL Pipelines, Data, and Open Source Contributions**  
+💡 Passionate about **Big data, Machine Learning, and Open Source Contributions**  
 
 ---
 
@@ -11,7 +11,7 @@
 🔹 **Programming:** Python (Pandas, NumPy, Streamlit), SQL, C  
 🔹 **Data Processing & Analytics:** Apache Airflow, Hadoop, Matplotlib, Seaborn  
 🔹 **Machine Learning:** Scikit-learn, Prophet  
-🔹 **Databases:** PostgreSQL, MySQL 
+🔹 **Databases:** PostgreSQL, MySQL  
 🔹 **Others:** Jira, Git, Figma  
 
 ---
@@ -30,7 +30,7 @@
 
 ### 📫 Let's Connect!  
 🔗 **Email:** armchairja@gmail.com  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+🔗 **LinkedIn:** www.linkedin.com/in/phakhapol-maneesopa-687206155  
 🔗 **Portfolio:** [Coming Soon 🚀]  
 
 ---

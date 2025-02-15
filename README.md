@@ -9,7 +9,7 @@
 
 ### 💻 Tech Stack & Skills  
 🔹 **Programming:** Python (Pandas, NumPy, Streamlit), SQL, C  
-🔹 **Data Processing & Analytics:** Apache Airflow, Hadoop, Matplotlib, Seaborn  
+🔹 **Data Processing & Analytics:** Apache Airflow, Hadoop, Matplotlib, Seaborn,Power BI  
 🔹 **Machine Learning:** Scikit-learn, Prophet  
 🔹 **Databases:** PostgreSQL, MySQL  
 🔹 **Others:** Jira, Git, Figma  
